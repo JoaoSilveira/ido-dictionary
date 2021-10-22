@@ -1,0 +1,467 @@
+[
+    {
+        "acr": "adv.",
+        "ido": "adverbo",
+        "eng": "adverb"
+    },
+    {
+        "acr": "anat.",
+        "ido": "anatomio",
+        "eng": "anatomy"
+    },
+    {
+        "acr": "antiq.",
+        "ido": "antique",
+        "eng": "in antiquity"
+    },
+    {
+        "acr": "antrop.",
+        "ido": "antropologio",
+        "eng": "anthropology"
+    },
+    {
+        "acr": "arb.",
+        "ido": "arboro od arbusto",
+        "eng": "tree or shrub"
+    },
+    {
+        "acr": "aritm.",
+        "ido": "aritmetiko",
+        "eng": "arithmetic"
+    },
+    {
+        "acr": "arkeol.",
+        "ido": "arkeologio",
+        "eng": "archaeology"
+    },
+    {
+        "acr": "arkit.",
+        "ido": "arkitekturo",
+        "eng": "architecture"
+    },
+    {
+        "acr": "astron.",
+        "ido": "astronomio",
+        "eng": "astronomy"
+    },
+    {
+        "acr": "biokem.",
+        "ido": "biokemio",
+        "eng": "biochemistry"
+    },
+    {
+        "acr": "biol.",
+        "ido": "biologio",
+        "eng": "biology"
+    },
+    {
+        "acr": "bot.",
+        "ido": "botaniko",
+        "eng": "botany"
+    },
+    {
+        "acr": "dinos.",
+        "ido": "dinosaurio",
+        "eng": "dinosaur"
+    },
+    {
+        "acr": "diplom.",
+        "ido": "diplomaco",
+        "eng": "diplomacy"
+    },
+    {
+        "acr": "drnkj.",
+        "ido": "drinkajo",
+        "eng": "drink, beverage"
+    },
+    {
+        "acr": "ekl.",
+        "ido": "eklezio",
+        "eng": "church (institution)"
+    },
+    {
+        "acr": "ekon.",
+        "ido": "ekonomio od ekonomiko",
+        "eng": "economy or economics"
+    },
+    {
+        "acr": "elek.",
+        "ido": "elektro",
+        "eng": "electricity"
+    },
+    {
+        "acr": "elektrn.",
+        "ido": "elektroniko",
+        "eng": "electronics"
+    },
+    {
+        "acr": "elem.",
+        "ido": "elemento kemiala",
+        "eng": "chemical element"
+    },
+    {
+        "acr": "entom.",
+        "ido": "entomologio",
+        "eng": "entomology"
+    },
+    {
+        "acr": "fabl.",
+        "ido": "fablala",
+        "eng": "in fable"
+    },
+    {
+        "acr": "farm.",
+        "ido": "farmacio",
+        "eng": "pharmacy"
+    },
+    {
+        "acr": "filoz.",
+        "ido": "filozofio",
+        "eng": "philosophy"
+    },
+    {
+        "acr": "financ.",
+        "ido": "financo",
+        "eng": "finance"
+    },
+    {
+        "acr": "fiziol.",
+        "ido": "fiziologio",
+        "eng": "physiology"
+    },
+    {
+        "acr": "fizk.",
+        "ido": "fiziko",
+        "eng": "physics"
+    },
+    {
+        "acr": "fortif.",
+        "ido": "fortifikala",
+        "eng": "fortification"
+    },
+    {
+        "acr": "fot.",
+        "ido": "fotografala",
+        "eng": "photographic"
+    },
+    {
+        "acr": "gemol.",
+        "ido": "gemologio",
+        "eng": "gemmology, gemology"
+    },
+    {
+        "acr": "geneal.",
+        "ido": "genealogio",
+        "eng": "genealogy"
+    },
+    {
+        "acr": "geod.",
+        "ido": "geodezio",
+        "eng": "geodesy"
+    },
+    {
+        "acr": "geog.",
+        "ido": "geografio",
+        "eng": "geography"
+    },
+    {
+        "acr": "geol.",
+        "ido": "geologio",
+        "eng": "geology"
+    },
+    {
+        "acr": "geom.",
+        "ido": "geometrio",
+        "eng": "geometry"
+    },
+    {
+        "acr": "gram.",
+        "ido": "gramatiko",
+        "eng": "grammar"
+    },
+    {
+        "acr": "hist.",
+        "ido": "historio",
+        "eng": "history"
+    },
+    {
+        "acr": "imprim.",
+        "ido": "imprimala",
+        "eng": "printing"
+    },
+    {
+        "acr": "instr.",
+        "ido": "instrumento mezurala",
+        "eng": "measuring instrument"
+    },
+    {
+        "acr": "interj.",
+        "ido": "interjeciono",
+        "eng": "interjection"
+    },
+    {
+        "acr": "judic.",
+        "ido": "judiciala",
+        "eng": "judicial"
+    },
+    {
+        "acr": "kem.",
+        "ido": "kemio",
+        "eng": "chemistry"
+    },
+    {
+        "acr": "kir.",
+        "ido": "kirurgio",
+        "eng": "surgery"
+    },
+    {
+        "acr": "konj.",
+        "ido": "konjunciono",
+        "eng": "conjunction"
+    },
+    {
+        "acr": "konst.",
+        "ido": "konstrukturo",
+        "eng": "(a) building"
+    },
+    {
+        "acr": "kristal.",
+        "ido": "kristalografio",
+        "eng": "crystallography"
+    },
+    {
+        "acr": "leg.",
+        "ido": "legala",
+        "eng": "legal"
+    },
+    {
+        "acr": "ling.",
+        "ido": "linguala",
+        "eng": "language"
+    },
+    {
+        "acr": "liter.",
+        "ido": "literaturo",
+        "eng": "literature"
+    },
+    {
+        "acr": "litur.",
+        "ido": "liturgio",
+        "eng": "liturgy"
+    },
+    {
+        "acr": "log.",
+        "ido": "logiko",
+        "eng": "logic"
+    },
+    {
+        "acr": "lud.",
+        "ido": "ludala",
+        "eng": "game, play"
+    },
+    {
+        "acr": "ludl.",
+        "ido": "ludilo",
+        "eng": "plaything, toy"
+    },
+    {
+        "acr": "mamif.",
+        "ido": "mamifero",
+        "eng": "mammal"
+    },
+    {
+        "acr": "mar.",
+        "ido": "maro, oceano, bayo o stretajo",
+        "eng": "sea, ocean, bay or strait"
+    },
+    {
+        "acr": "matem.",
+        "ido": "matematiko",
+        "eng": "mathematics"
+    },
+    {
+        "acr": "medic.",
+        "ido": "medicino",
+        "eng": "medicine"
+    },
+    {
+        "acr": "medkm.",
+        "ido": "medikamento",
+        "eng": "medicament"
+    },
+    {
+        "acr": "mek.",
+        "ido": "mekanikala",
+        "eng": "mechanical"
+    },
+    {
+        "acr": "metalg.",
+        "ido": "metalurgio",
+        "eng": "matallurgy"
+    },
+    {
+        "acr": "meteor.",
+        "ido": "meteorologio",
+        "eng": "meteorology"
+    },
+    {
+        "acr": "mez.",
+        "ido": "mezurala",
+        "eng": "measurement"
+    },
+    {
+        "acr": "milit.",
+        "ido": "militala",
+        "eng": "military"
+    },
+    {
+        "acr": "min.",
+        "ido": "mineralogio",
+        "eng": "mineralogy"
+    },
+    {
+        "acr": "mitol.",
+        "ido": "mitologio",
+        "eng": "mythology"
+    },
+    {
+        "acr": "molsk.",
+        "ido": "molusko",
+        "eng": "mollusc"
+    },
+    {
+        "acr": "mont.",
+        "ido": "monto o montaro",
+        "eng": "mountain or mountain range"
+    },
+    {
+        "acr": "muz.",
+        "ido": "muziko",
+        "eng": "music"
+    },
+    {
+        "acr": "muzin.",
+        "ido": "muzikala instrumento",
+        "eng": "musical instrument"
+    },
+    {
+        "acr": "nav.",
+        "ido": "navala",
+        "eng": "naval, boating"
+    },
+    {
+        "acr": "obs.",
+        "ido": "obsoleta",
+        "eng": "obsolete"
+    },
+    {
+        "acr": "opt.",
+        "ido": "optiko",
+        "eng": "optics"
+    },
+    {
+        "acr": "paleo.",
+        "ido": "paleontologio",
+        "eng": "palaeontology"
+    },
+    {
+        "acr": "patol.",
+        "ido": "patologio",
+        "eng": "pathology"
+    },
+    {
+        "acr": "pek.",
+        "ido": "pekuniala",
+        "eng": "money"
+    },
+    {
+        "acr": "pl.",
+        "ido": "planto",
+        "eng": "plant (botanical)"
+    },
+    {
+        "acr": "poez.",
+        "ido": "poezio",
+        "eng": "poetry"
+    },
+    {
+        "acr": "polit.",
+        "ido": "politiko",
+        "eng": "politics"
+    },
+    {
+        "acr": "prep.",
+        "ido": "prepoziciono",
+        "eng": "preposition"
+    },
+    {
+        "acr": "pron.",
+        "ido": "pronomo",
+        "eng": "pronoun"
+    },
+    {
+        "acr": "proz.",
+        "ido": "prozodio",
+        "eng": "prosody"
+    },
+    {
+        "acr": "psik.",
+        "ido": "psikologio",
+        "eng": "psychology"
+    },
+    {
+        "acr": "rel.",
+        "ido": "religio",
+        "eng": "religion"
+    },
+    {
+        "acr": "rept.",
+        "ido": "reptero",
+        "eng": "reptile"
+    },
+    {
+        "acr": "retor.",
+        "ido": "retoriko",
+        "eng": "rhetoric"
+    },
+    {
+        "acr": "river.",
+        "ido": "rivero o fluvio",
+        "eng": "river"
+    },
+    {
+        "acr": "sociol.",
+        "ido": "sociologio",
+        "eng": "sociology"
+    },
+    {
+        "acr": "subs.",
+        "ido": "substanco",
+        "eng": "substance"
+    },
+    {
+        "acr": "tekn.",
+        "ido": "teknologio",
+        "eng": "technology"
+    },
+    {
+        "acr": "teol.",
+        "ido": "teologio",
+        "eng": "theology"
+    },
+    {
+        "acr": "tipog.",
+        "ido": "tipografo",
+        "eng": "typography"
+    },
+    {
+        "acr": "vestl.",
+        "ido": "vestala",
+        "eng": "clothing"
+    },
+    {
+        "acr": "zool.",
+        "ido": "zoologio",
+        "eng": "zoology"
+    }
+]
